@@ -1,16 +1,30 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-color: white;
+    overflow: hidden;
 }
+*{
+    box-sizing: border-box;
+}
+
+
+
 
 .quizboard{
     text-align: center;
     border: 1px solid black;
+    background-color: whitesmoke;
+    border-radius: 15px;
     font-size: large;
     margin-left: 300px;
     margin-right: 300px;
     padding-bottom: 50px;
     font-weight: 500;
+    font-family:'poppin' sans-serif;
+    overflow: hidden;
+    height: 600px;
+    width: 600px;
 }
 h2{
     background-color: rgb(189, 189, 250);
@@ -24,7 +38,15 @@ h2{
 .submit{
     padding-top: 40px;
     padding-right: 400px;
+    font-size: x-large;
+    
     
 }
-
+#btn{
+    background-color: rgb(8, 180, 8);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+}
 
