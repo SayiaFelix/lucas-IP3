@@ -24,13 +24,15 @@ function myButton(){
 
   
 
-  //if (score==3){
-    //   submitboard.textContent="Congratulations!! You Have Passed. Your score is " + Math.floor(score/90*100)+"%"+""
-   // } else if (score==2) {
-    //  submitboard.textContent="Congratulations!! You Have Fairly Passed. Your score is " + Math.floor(score/90*100)+"%"+""
-  //  } else {
-    //   submitboard.textContent="Congratulations!! Unfortunately you have failed. Your score is " + Math.floor(score/90*100)+"%. Kindly Reattempt the quiz!!!"  
-    //}
+  if (score==3){
+     submitboard.textContent="Congratulations!! You Have Passed. Your score is " + Math.floor(score/90*100)+"%"+""
+  }
+  else if (score==2) {
+     submitboard.textContent="Congratulations!! You Have Fairly Passed. Your score is " + Math.floor(score/90*100)+"%"+""
+   } 
+   else {
+     submitboard.textContent="Congratulations!! Unfortunately you have failed. Your score is " + Math.floor(score/90*100)+"%. Kindly Reattempt the quiz!!!"  
+    }
    
   }
   
