@@ -3,6 +3,7 @@ body{
 }
 *{
     box-sizing: border-box;
+padding: 0%;
 }
 
 
@@ -20,7 +21,7 @@ body{
     font-weight: 500;
     font-family:'poppin' sans-serif;
     overflow: hidden;
-    height: 600px;
+    height: 580px;
     width: 600px;
 }
 h2{
@@ -46,4 +47,20 @@ h2{
     padding: 10px;
     color: white;
 }
-
+#submit-board{
+    text-align: center;
+    font-size: large;
+    text-align: center;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    font-size: large;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-family:'poppin' sans-serif;
+    overflow: hidden;
+    height: 60px;
+    width: 600px;
+}

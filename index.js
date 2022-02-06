@@ -1,3 +1,7 @@
+//const text=document.querySelector(".quiz");
+//const strText=text.textContent;
+//console.log(strText)
+
 function myButton(){
     var score=0;
    
@@ -36,3 +40,5 @@ function myButton(){
    
      document.write (score)
  }
+
+ 
