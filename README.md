@@ -1,5 +1,5 @@
-# Sayia-Felix
-#### {AMACO INSURANCE PROJECT},
+# Lucas-IP3
+#### {JAVASCRIPT QUIZ PROJECT},
 #### By SAYIA FELIX LUCAS
 ## Description
 AMACO Insurance project is my second Ip project which is Insurance advertisement. I have applied new skills which i have learned in my first 2 weeks in software development class.The project entails different sections navigation bar ,menu and details for contacting amd reaching out to the insurence.
