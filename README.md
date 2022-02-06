@@ -16,9 +16,10 @@ I have used HTML,CSS and Javascript increating this Javascript quiz Project but 
 ## Support and contact details
 Incase of any issue please contact me through my official email address {sayia.lucas@student.moringaschool.com }
 ## Set Up Instruction
+https://github.com/SayiaFelix/lucas-IP3.git
 
 ## Live Site
-
+Available here;
 ### License
 This project is under MIT License
 Copyright 2022.All rights are reserved and it was designed by Sayia Felix Lucas
