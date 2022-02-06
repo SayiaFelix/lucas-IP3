@@ -2,7 +2,8 @@
 #### {JAVASCRIPT QUIZ PROJECT},
 #### By SAYIA FELIX LUCAS
 ## Description
-AMACO Insurance project is my second Ip project which is Insurance advertisement. I have applied new skills which i have learned in my first 2 weeks in software development class.The project entails different sections navigation bar ,menu and details for contacting amd reaching out to the insurence.
+Javascript quiz project is a project where i have design an online test for my school after finishing the course in Javascript. The test is to be done online and student are suppossed to key in answers in the test and after submitting the will have their raw marks on the online platform.Here is the design of the project is here in this link;
+https://www.figma.com/file/cMyxLeTBJKaqzqhrZGDRpI/IP3-QUIZ-BOARD?node-id=0%3A1
 ## Known Bugs
 In this project their still some space for improving in making it responsive so that it can adapt different screens 
 ## Technologies Used
