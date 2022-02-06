@@ -19,7 +19,7 @@ Incase of any issue please contact me through my official email address {sayia.l
 https://github.com/SayiaFelix/lucas-IP3.git
 
 ## Live Site
-Available here;
+Available here; https://sayiafelix.github.io/lucas-IP3/
 ### License
 This project is under MIT License
 Copyright 2022.All rights are reserved and it was designed by Sayia Felix Lucas
