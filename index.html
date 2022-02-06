@@ -5,50 +5,54 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="index.css">
+    
     <title>Javascript Quiz</title>
 </head>
 <body>
     <form  name="first" class="quizboard" id="quiz">
         <h2 class="quiz">Javascript Quiz</h2>
-
-        <div class="quiz1">
-            <p>1.) Scripting or Programming language language that allows you to implement
+        
+             <div class="quiz1">
+               <p>1.) Scripting or Programming language language that allows you to implement
                  <br> complex features on web pages is called?</p>
 
                  <input type="radio" name="question1" value="HTML">HTML <br>
                  <input type="radio" name="question1" value="CSS">CSS <br>
                  <input type="radio" name="question1" value="Javascript" id="correct1">Javascript 
 
-        </div>
+             </div>
 
-        <div class="quiz2">
-            <p> 2.) Which one of the following is not an example of data type in Javascript?</p>
+            <div class="quiz2">
+             <p> 2.) Which one of the following is not an example of data type in Javascript?</p>
                  <input type="radio" name="question2" value="String">String <br>
                  <input type="radio" name="question2" value="Loop" id="correct2">Loop<br>
                  <input type="radio" name="question2" value="Number">Number 
 
-        </div>
+            </div>
 
 
-        <div class="quiz3">
-            <p>3.)What is the name of data type below?   Var rainy=true;
+            <div class="quiz3">
+             <p>3.)What is the name of data type below?   Var rainy=true;
                                                          Var rainy=false;  </p>
 
                  <input type="radio" name="question3" value="Boolean" id="correct3">Boolean<br>
                  <input type="radio" name="question3" value="Array">Array
 
-        </div>
+            </div>
 
-        <div class="submit">
-            <input type="submit" name="submit"  value="Submit" id="btn" onclick="myButton()">
+            <div class="submit">
+             <input type="submit" name="submit"  value="Submit" id="btn" onclick="myButton()">
 
-        </div>
+           </div>    
     
     </form>
-   
-    <div id="empty"></div>
 
-    <script src="index.js"></script>
-    
+   
+    <div id="empty">
+        <p id="correct"></p>
+    </div>
+
+      <script src="index.js" type="text/javascript"></script>
+
 </body>
 </html>
