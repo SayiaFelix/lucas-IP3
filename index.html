@@ -10,7 +10,7 @@
 
 </head>
 <body>
-    <form  name="first" id="quiz">
+    <form  name="first" id="java">
         <h2 class="quiz">Javascript Quiz</h2>
         
              <div class="quiz1">
@@ -19,24 +19,25 @@
 
                  <input type="radio" name="question1" value="HTML">HTML <br>
                  <input type="radio" name="question1" value="CSS">CSS <br>
-                 <input type="radio" name="question1" value="Javascript" id="correct1">Javascript 
+                 <input type="radio" name="question1" value="Javascript">Javascript 
 
              </div>
 
             <div class="quiz2">
              <p> 2.) Which one of the following is not an example of data type in Javascript?</p>
                  <input type="radio" name="question2" value="String">String <br>
-                 <input type="radio" name="question2" value="Loop" id="correct2">Loop<br>
+                 <input type="radio" name="question2" value="Loop">Loop<br>
                  <input type="radio" name="question2" value="Number">Number 
 
             </div>
 
 
             <div class="quiz3">
-             <p>3.)What is the name of data type below?   Var rainy=true;
-                                                         Var rainy=false;  </p>
+             <p>3.)What is the name of data type below?  
+                Var rainy=true;
+                Var rainy=false;  </p>
 
-                 <input type="radio" name="question3" value="Boolean" id="correct3">Boolean<br>
+                 <input type="radio" name="question3" value="Boolean">Boolean<br>
                  <input type="radio" name="question3" value="Array">Array
 
             </div>
@@ -44,10 +45,12 @@
             <div class="submit">
              <input type="submit" name="submit"  value="Submit" id="btn" onclick="myButton();">
 
-           </div>    
+            </div>    
     
     </form>
-    <div id="submitboard"></div>
+    <div id="submitboard">
+      <p>Your Score is;</p>
+    </div>
 
       <script src="/index.js" type="text/javascript"></script>
 
